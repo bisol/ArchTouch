@@ -1,6 +1,6 @@
 # ArchTouch Interview Challenge
 
-## A simple app to query bus routes
+## A simple Android app to query bus routes
 
 Tha app allows users to find bus routes based on a street name or a location choosen on Google.Maps
 
@@ -14,5 +14,9 @@ Clicking on any item in the results list will start two background tasks queryin
 route's departure schedule and stops. After completing these tasks, the app switches to a tabbed
 pager view, displaying the routes stops and departures (weekdays, saturday and sunday) on individual
 views.
+
+## Run instructions
+
+No special needs, simply press the run button fron the Android Studio
 
 Tested on my Moto G 1st gen
