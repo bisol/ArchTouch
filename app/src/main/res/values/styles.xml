@@ -1,0 +1,7 @@
+<resources>
+
+    <!--<style name="BusFinderTheme" parent="android:Theme.Holo">-->
+    <style name="BusFinderTheme" parent="android:Theme.Material">
+    </style>
+
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BusCommander</string>
+    <string name="bus_finder_street_name_hint">Enter a street name</string>
+    <string name="bus_finder_search_button">Search</string>
+    <string name="bus_finder_service_error">Unable to connect to service.</string>
+    <string name="bus_finder_resource_warning">There was an error cleaning up resources</string>
+
+    <string name="bus_finder_route_details_weekdays">Week days</string>
+    <string name="bus_finder_route_details_saturday">Saturday</string>
+    <string name="bus_finder_route_details_sunday">Sunday</string>
+
+    <string name="bus_finder_route_details_route_stops">Stops</string>
+    <string name="bus_finder_route_details_route_departures">Departures</string>
+    <string name="bus_finder_route_details_route_departures_weekdays">Week days</string>
+    <string name="bus_finder_route_details_route_departures_saturday">Saturday</string>
+    <string name="bus_finder_route_details_route_departures_sunday">Sunday</string>
+
+    <string name="bus_finder_network_error">Network unavailable</string>
+    <string name="ok">Ok</string>
+    <string name="bus_finder_show_map">Find in Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bus_finder_invalid_location">Invalid location selected</string>
+    <string name="bus_finder_no_address_found">No address found for selected location</string>
+    <string name="bus_finder_no_results">No results</string>
+    <string name="bus_finder_street_name_empty">Value required</string>
+
+</resources>
