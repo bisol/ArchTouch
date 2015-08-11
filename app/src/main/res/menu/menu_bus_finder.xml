@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".BusFinder">
+
+    <item android:id="@+id/bus_finder_maps_button"
+        android:icon="@drawable/ic_map_white_24dp"
+        android:showAsAction="ifRoom"
+        android:title="@string/bus_finder_show_map"
+        />
+</menu>
